@@ -1,2 +1,2 @@
 # competitive
-**learning C++ for competitive programming.**
+**C++ for competitive programming.**
